@@ -19,7 +19,7 @@ A ideia é deixar tudo em um só lugar, de forma simples e rápida.
 ## Nossa equipe
 
 | Integrante | Função |
-|---|---|---|
+|---|---|
 | João Pedro | Apresentação do projeto |
 | Renan Jackowski | Funcionalidades |
 | Paulo Geandre | Página da equipe |
