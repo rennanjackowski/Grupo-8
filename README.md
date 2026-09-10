@@ -21,9 +21,10 @@ A ideia é deixar tudo em um só lugar, de forma simples e rápida.
 | Integrante | Função |
 |---|---|
 | João Pedro | Apresentação do projeto |
-| Renan Jackowski | Funcionalidades |
+| Rennan Jackowski | Funcionalidades |
 | Paulo Geandre | Página da equipe |
-| Felipe Augusto | Contato e tecnologias |
+| Felipe Augusto | Tecnologias |
+| Gustavo Huttener | Contato |
 
 ## Tecnologias usadas
 
@@ -33,6 +34,6 @@ A ideia é deixar tudo em um só lugar, de forma simples e rápida.
 
 ## Contato
 
-Para conhecer nosso trabalho, acesse os perfis da equipe ou o repositório do projeto.
+Para conhecer nosso trabalho, acesse o repositório do projeto e verifique os colaboradores.
 
 Feito em equipe para o desafio prático de Git e GitHub.
