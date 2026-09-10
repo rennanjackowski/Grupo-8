@@ -15,3 +15,12 @@ A ideia é deixar tudo em um só lugar, de forma simples e rápida.
 - 📅 Organização de provas e trabalhos
 - 🔔 Lembretes de atividades
 - 👥 Espaço para trabalhos em grupo
+
+## Nossa equipe
+
+| Integrante | Função |
+|---|---|---|
+| João Pedro | Apresentação do projeto |
+| Renan Jackowski | Funcionalidades |
+| Paulo Geandre | Página da equipe |
+| Felipe Augusto | Contato e tecnologias |
